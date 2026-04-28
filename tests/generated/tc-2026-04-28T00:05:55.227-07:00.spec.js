@@ -1,0 +1,1 @@
+output from JS node
